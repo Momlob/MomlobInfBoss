@@ -27,12 +27,4 @@ Changelog:
    - New Aethers Hourglass and Limit Breaker.
    - Compatability with Crafty Boss Drops.
    - New Mod Icon.
-   
-  - 1.1.0
-   - Adjusted some Recipes.
-   - Animation for Weather Summons.
-   - Fixed Sorting.
-   
-  - 1.0.0
-   - Release
 
