@@ -1,3 +1,5 @@
 displayName = Let Me Retry
-version = 1.2.1
+version = 1.2.1.1
 author = Momlob
+homepage = https://forums.terraria.org/index.php?threads/momlob-s-misc-mods.107093/
+buildIgnore = .git\*, .gitattributes
