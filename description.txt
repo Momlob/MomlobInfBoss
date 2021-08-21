@@ -1,0 +1,38 @@
+Ever found yourself getting annihalated by a Boss, and afterwards noticing you used your last Boss Summon.
+Annoyed by an unnesesseary spawning Method... Wall of Flesh... cough.
+Or simply love grinding out infiniely reusable Items like me.
+Well do I have the Mod for you!
+
+Let me Retry add alternate infinite Boss summoning Items for most Bosses in Terraria.
+These Summons come at a slightly increased Cost however.
+
+The Crafting Recipes are highly configurable.
+Options include:
+  - Normal Recipe
+  - Vanilla Recipe.
+  - X Times the Normal Summon.
+   ^ How Many cofigurable.
+Aswell as Options to include Items from other Mods.
+This currenty includes:
+  - Calamity
+  - Thorium
+
+Currently this Mod only adds Summon Items for Vanilla Bosses.
+But Summons for popular Content Mods are in concideration, like the ones mentioned above.
+
+
+Changelog:
+  - 1.2.1
+   - Adjusted some Recipes again.
+   - New Aethers Hourglass and Limit Breaker.
+   - Compatability with Crafty Boss Drops.
+   - New Mod Icon.
+   
+  - 1.1.0
+   - Adjusted some Recipes.
+   - Animation for Weather Summons.
+   - Fixed Sorting.
+   
+  - 1.0.0
+   - Release
+
